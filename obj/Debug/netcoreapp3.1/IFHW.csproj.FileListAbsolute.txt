@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.exe
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.deps.json
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.dll
+C:\Users\GhostX\Desktop\c#Projects\IFHW\bin\Debug\netcoreapp3.1\IFHW.pdb
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.dll
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.pdb
+C:\Users\GhostX\Desktop\c#Projects\IFHW\obj\Debug\netcoreapp3.1\IFHW.genruntimeconfig.cache
